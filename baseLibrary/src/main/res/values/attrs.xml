@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--通用标题栏-->
+    <declare-styleable name="TitleBar">
+        <attr name="title" format="string"/>
+        <attr name="title_text_size" format="dimension"/>
+        <attr name="title_text_color" format="color"/>
+        <attr name="show_right_btn" format="boolean"/>
+        <attr name="show_left_btn" format="boolean"/>
+        <attr name="right_image" format="reference"/>
+        <attr name="left_image" format="reference"/>
+    </declare-styleable>
+
+</resources>
