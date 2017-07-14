@@ -52,7 +52,7 @@ publish {
     artifactId = 'base-library'//项目名称
     publishVersion = '1.0.0'//版本号
     desc = 'base for android '//描述
-    website = 'https://github.com/xiaoluo/base-library'
+    website = 'https://github.com/xiaoluozzl/BaseLibrary'
 }
 
 tasks.withType(Javadoc) {
